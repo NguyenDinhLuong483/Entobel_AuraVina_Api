@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ENTOBEL_AURAVINA_API.props" />
+</Project>

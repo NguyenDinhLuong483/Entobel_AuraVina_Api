@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\entobel_auravina_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|solutionrelative:entobel_auravina_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|d:\\project\\asp.net core\\entobel_auravina_api\\entobel_auravina_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|solutionrelative:entobel_auravina_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\entobel_auravina_api\\domains\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|solutionrelative:entobel_auravina_api\\domains\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\entobel_auravina_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|solutionrelative:entobel_auravina_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\entobel_auravina_api\\domains\\presistances\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD607FEC-D1A9-4A50-AF43-C2BCB69F1F0E}|ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API.csproj|solutionrelative:entobel_auravina_api\\domains\\presistances\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Program.cs",
+              "RelativeDocumentMoniker": "ENTOBEL_AURAVINA_API\\Program.cs",
+              "ToolTip": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Program.cs",
+              "RelativeToolTip": "ENTOBEL_AURAVINA_API\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:03:17.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Domains\\Presistances\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ENTOBEL_AURAVINA_API\\Domains\\Presistances\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Domains\\Presistances\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ENTOBEL_AURAVINA_API\\Domains\\Presistances\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:12:01.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ENTOBEL_AURAVINA_API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ENTOBEL_AURAVINA_API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:40:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Domains\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ENTOBEL_AURAVINA_API\\Domains\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Domains\\Services\\IUserService.cs",
+              "RelativeToolTip": "ENTOBEL_AURAVINA_API\\Domains\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:10:35.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ENTOBEL_AURAVINA_API\\Services\\UserService.cs",
+              "ToolTip": "D:\\Project\\ASP.NET Core\\ENTOBEL_AURAVINA_API\\ENTOBEL_AURAVINA_API\\Services\\UserService.cs",
+              "RelativeToolTip": "ENTOBEL_AURAVINA_API\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:11:07.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
